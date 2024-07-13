@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC2A6D9-9754-46D9-8B20-0C5FD938D445}|Datos\\Datos.csproj|c:\\users\\maurp\\source\\repos\\examencalzado\\datos\\contexto\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC2A6D9-9754-46D9-8B20-0C5FD938D445}|Datos\\Datos.csproj|solutionrelative:datos\\contexto\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\dominio\\entidades\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\dominio\\entidades\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\dominio\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\dominio\\entidades\\pedidomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\pedidomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\dominio\\entidades\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D305FE1-2659-4CA3-8C46-244225E91265}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\promocion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 634,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Datos\\Contexto\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Datos\\Contexto\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Datos\\Contexto\\AppDbContext.cs",
+              "RelativeToolTip": "Datos\\Contexto\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:37:41.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoModelo.cs",
+              "DocumentMoniker": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\PedidoModelo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\PedidoModelo.cs",
+              "ToolTip": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\PedidoModelo.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\PedidoModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:35:49.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Modelo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Modelo.cs",
+              "ToolTip": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Modelo.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Modelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:35:28.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Pedido.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Pedido.cs",
+              "ToolTip": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Pedido.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:34:14.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Distribuidor.cs",
+              "DocumentMoniker": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Distribuidor.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Distribuidor.cs",
+              "ToolTip": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Distribuidor.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Distribuidor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:34:02.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Promocion.cs",
+              "DocumentMoniker": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Promocion.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Promocion.cs",
+              "ToolTip": "C:\\Users\\maurp\\source\\repos\\ExamenCalzado\\Dominio\\Entidades\\Promocion.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Promocion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:31:37.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
